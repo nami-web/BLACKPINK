@@ -90,15 +90,15 @@ h1{position: absolute; left: 50%; transform: translateX(-50%);}
 
 /* 슬라이드 - swiper */
 .swiper1{height: 100%; }
-.slide .s1{background-image: url(../images/slide2.jpg);
+.slide .s1{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide2.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
-.slide .s2{background-image: url(../images/slide1.jpg);
+.slide .s2{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide1.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
-.slide .s3{background-image: url(../images/slide3.jpg);
+.slide .s3{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide3.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
@@ -107,7 +107,7 @@ h1{position: absolute; left: 50%; transform: translateX(-50%);}
 
 
 
-.banner{width: 100%; background-image: url(../images/new_issue_bg.jpg);  background-position: center; background-size: cover; background-repeat: no-repeat;  }
+.banner{width: 100%; background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/new_issue_bg.jpg);  background-position: center; background-size: cover; background-repeat: no-repeat;  }
 .banner h1{width: 10vw; margin: 0 auto; top: 10vw; 
     transition: all 0.6s cubic-bezier(0.34, 1.4, 0.64, 1); transition-delay: 0.2s; opacity: 0;}
 .banner h1.active{top: 7vw; opacity: 1;}
@@ -132,7 +132,7 @@ h1{position: absolute; left: 50%; transform: translateX(-50%);}
 
 
 /* album */
-.album{background-image: url(../images/album_bg.jpg);
+.album{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/album_bg.jpg);
         background-position: center; background-repeat: no-repeat;
    background-size: cover;}
 .swiper3{margin-top:2vw; height: 43vw; opacity: 0; transition: all 0.5s; transition-delay: 0.5s;}
@@ -159,7 +159,7 @@ letter-spacing:0.02vw;}
 
 
 /* magazine */
-.maz{background-image: url(../images/magazine_bg.jpg);
+.maz{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/magazine_bg.jpg);
 background-position: center; background-repeat: no-repeat; background-size: cover;}
 .maz h1{width: 13vw; margin: 0 auto; top: 10.5vw; transition: all 0.6s cubic-bezier(0.34, 1.4, 0.64, 1); transition-delay: 0.3s; opacity: 0;}
 .maz h1.active{top: 7.5vw; opacity: 1;}
@@ -219,12 +219,12 @@ header .close{display: none;}
 .sub_bg{margin-top: -4.5vw; height: 16vw;}
 
     
-.slide .s2{background-image: url(../images/slide1-2.jpg);
+.slide .s2{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide1-2.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
 
-.slide .s3{background-image: url(../images/slide3-2.jpg);
+.slide .s3{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide3-2.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}     
@@ -313,16 +313,16 @@ header .sns{display: none; position: absolute;}
 
     
  
-.slide .s1{background-image: url(../images/slide2.jpg);
+.slide .s1{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide2.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
-.slide .s2{background-image: url(../images/slide1.jpg);
+.slide .s2{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide1.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
 
-.slide .s3{background-image: url(../images/slide3.jpg);
+.slide .s3{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide3.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}     
@@ -353,7 +353,7 @@ header .sns{display: none; position: absolute;}
     
     
     
-.banner{width: 100%; background-image: url(../images/new_issue_bg.jpg);  background-position: center; background-size: cover; background-repeat: no-repeat;  }
+.banner{width: 100%; background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/new_issue_bg.jpg);  background-position: center; background-size: cover; background-repeat: no-repeat;  }
 .banner h1{width: 30vw; margin-top: 10vw; }    
 .banner .b_wrap{width:100vw;  margin: 0 auto; }
 .banner .b_wrap ul li img{width: 15.2vw;}    
@@ -444,16 +444,16 @@ header .sns{display: none; position: absolute;}
 
     
  
-.slide .s1{background-image: url(../images/slide2.jpg);
+.slide .s1{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide2.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
-.slide .s2{background-image: url(../images/slide1.jpg);
+.slide .s2{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide1.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}
 
-.slide .s3{background-image: url(../images/slide3.jpg);
+.slide .s3{background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/slide3.jpg);
            background-position: center;
            background-repeat: no-repeat;
            background-size: cover;}     
@@ -484,7 +484,7 @@ header .sns{display: none; position: absolute;}
     
     
     
-.banner{width: 100%; background-image: url(../images/new_issue_bg.jpg);  background-position: center; background-size: cover; background-repeat: no-repeat;  }
+.banner{width: 100%; background-image: url(https://cdn.jsdelivr.net/gh/nami-web/BLACKPINK/images/new_issue_bg.jpg);  background-position: center; background-size: cover; background-repeat: no-repeat;  }
 .banner h1{width: 30vw; margin-top: 10vw; }    
 .banner .b_wrap{width:100vw;  margin: 0 auto; }
 .banner .b_wrap ul li img{width: 15.2vw;}    
